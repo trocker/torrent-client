@@ -1,0 +1,13 @@
+Java BitTorrent Client
+
+How to Use:
+
+From within the root directory:
+
+javac -cp src/. src/RUBTClient.java
+
+java -cp src/. RUBTClient project2.torrent audio.mp3
+
+
+
+

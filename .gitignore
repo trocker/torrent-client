@@ -1,0 +1,11 @@
+*.class
+*.mp3
+*.jpg
+*.stats
+*.txt
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
